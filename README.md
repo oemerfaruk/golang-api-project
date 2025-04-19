@@ -1,6 +1,6 @@
 # api project
 
-### dependincies
+### dependencies
 
 ```go
 import (
