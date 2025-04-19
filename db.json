@@ -1,0 +1,33 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Laptop",
+            "categoryId": "1",
+            "price": 10.99
+        },
+        {
+            "id": 2,
+            "productName": "Telefon",
+            "categoryId": "1",
+            "price": 20.99
+        },
+        {
+            "id": 3,
+            "productName": "Mouse",
+            "categoryId": "2",
+            "price": 30.99
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "categoryName": "Electronics"
+        },
+        {
+            "id": 2,
+            "categoryName": "Accessories"
+        }
+    ]
+
+}
