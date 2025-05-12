@@ -1,33 +1,44 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "productName": "Laptop",
-            "categoryId": "1",
-            "price": 10.99
-        },
-        {
-            "id": 2,
-            "productName": "Telefon",
-            "categoryId": "1",
-            "price": 20.99
-        },
-        {
-            "id": 3,
-            "productName": "Mouse",
-            "categoryId": "2",
-            "price": 30.99
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "categoryName": "Electronics"
-        },
-        {
-            "id": 2,
-            "categoryName": "Accessories"
-        }
-    ]
-
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryId": 1,
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "price": 20.99
+    },
+    {
+      "id": 3,
+      "productName": "Mouse",
+      "categoryId": 2,
+      "price": 30.99
+    },
+    {
+      "id": 4,
+      "productName": "klavye",
+      "categoryId": 2,
+      "price": 100
+    },
+    {
+      "id": 0,
+      "productName": "mikrofon",
+      "categoryId": 2,
+      "price": 100
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Accessories"
+    }
+  ]
 }
