@@ -14,3 +14,7 @@ import (
 ```bash
 npm install -g json-server
 ```
+
+```bash
+json-server --watch db.json
+```
